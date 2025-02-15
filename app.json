@@ -3,12 +3,12 @@
   "description": "Jᴀᴠᴀsᴄʀɪᴘᴛ Wʜᴀᴛsᴀᴘᴘ Bᴏᴛ Mᴀᴅᴇ Bʏ Mʀ Sʜᴀʙᴀɴ",
   "logo": "https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg",
   "keywords": ["Mʀ✰Sʜᴀʙᴀɴ"],
-  "success_url": "/",
+  "success_url": "SHABAN-MD~2CIwnY5Q#5YiGciTmGQNytFeTUvFnibEZacGAsohH4nvcRFQEXyM/",
 
     "stack": "container",
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "SHABAN-MD~2CIwnY5Q#5YiGciTmGQNytFeTUvFnibEZacGAsohH4nvcRFQEXyM",
       "required": true,
       "value": ""
     },  
@@ -86,14 +86,14 @@
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923059395959"
+      "value": "923352215918"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-MD-V5"
+      "value": "katala"
 
       }, 
 
@@ -126,20 +126,20 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "Mʀ✰Sʜᴀʙᴀɴ"
+      "value": "anaonos"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "required": false,
-      "value": "923059395959"
+      "required": true,
+      "value": "923352215918"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "SHABAN-MD-V5"
+      "value": "katala"
 
       }, 
 
@@ -171,19 +171,19 @@
     "AUTO_RECORDING": {
       "description": "Make it true if you want auto recoding.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
 
     "AUTO_TYPING": {
       "description": "Make it true if you want auto typing.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
 
     "AUTO_REACT": {
       "description": "Make it true if you want react on every message.",
-      "required": false,
-      "value": "false"
+      "required": true,
+      "value": "true"
     },
     
     "CUSTOM_REACT": {
@@ -195,8 +195,8 @@
     
     "CUSTOM_REACT_EMOJIS": {
       "description": "put here custom react react emojis.",
-      "required": false,
-      "value": "💝,💖,💗,❤️‍🩹,❤️,🧡,💛,💚,💙,💜,🤎,🖤,🤍"
+      "required": true,
+      "value": "💝,❤️‍🩹,😘,💫,💞,💌,📳,♥️,🖤,🎭,🎉,💌,"
     }, 
     
     "ANTI_DEL_PATH": {
