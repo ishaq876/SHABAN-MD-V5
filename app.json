@@ -1,8 +1,8 @@
 {
-  "name": "SHABAN-MD-V5",
+  "name": "anonymous",
   "description": "Jᴀᴠᴀsᴄʀɪᴘᴛ Wʜᴀᴛsᴀᴘᴘ Bᴏᴛ Mᴀᴅᴇ Bʏ Mʀ Sʜᴀʙᴀɴ",
   "logo": "https://i.ibb.co/9N1sJ41/Manul-Ofc-X.jpg",
-  "keywords": ["Mʀ✰Sʜᴀʙᴀɴ"],
+  "keywords": ["SHABAN-MD~2CIwnY5Q#5YiGciTmGQNytFeTUvFnibEZacGAsohH4nvcRFQEXyM"],
   "success_url": "SHABAN-MD~2CIwnY5Q#5YiGciTmGQNytFeTUvFnibEZacGAsohH4nvcRFQEXyM/",
 
     "stack": "container",
@@ -10,7 +10,7 @@
     "SESSION_ID": {
       "description": "SHABAN-MD~2CIwnY5Q#5YiGciTmGQNytFeTUvFnibEZacGAsohH4nvcRFQEXyM",
       "required": true,
-      "value": ""
+      "value": "SHABAN-MD~2CIwnY5Q#5YiGciTmGQNytFeTUvFnibEZacGAsohH4nvcRFQEXyM"
     },  
     
     "STICKER_NAME": {
@@ -36,7 +36,7 @@
     "ALWAYS_ONLINE": {
       "description": "Make it true if want always online.",
       "required": true,
-      "value": "false"  
+      "value": "true"  
     },    
   
     "AUTO_VOICE": {
@@ -78,21 +78,21 @@
      }, 
     
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
-      "required": false,
+      "description": "ishaq",
+      "required": true,
       "value": "Mʀ✰Sʜᴀʙᴀɴ"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
-      "required": false,
+      "required": true,
       "value": "923352215918"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
-      "required": false,
+      "required": true,
       "value": "katala"
 
       }, 
@@ -124,8 +124,8 @@
      }, 
     
     "OWNER_NAME": {
-      "description": "Type Bot Owner Name.",
-      "required": false,
+      "description": "katala",
+      "required": true,
       "value": "anaonos"
 }, 
 
@@ -138,7 +138,7 @@
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
-      "required": false,
+      "required": true,
       "value": "katala"
 
       }, 
@@ -152,7 +152,7 @@
     
     "AUTO_STATUS_REACT": {
       "description": "status auto like or react make it true or false.",
-      "required": false,
+      "required": true,
       "value": "true"
     }, 
     
@@ -188,7 +188,7 @@
     
     "CUSTOM_REACT": {
       "description": "Make it true if you want custom reactions.",
-      "required": false,
+      "required": true,
       "value": "true"
       
     }, 
